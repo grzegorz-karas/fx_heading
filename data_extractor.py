@@ -106,7 +106,7 @@ def save_results(futures_info, destination_path, file_type):
     pd_futures_info = pd.DataFrame(futures_info)
 
     nazwa_pliku = destination_path \
-        + str(datetime.datetime.today()).replace('-', '') \
+        + str(datetime.date.today()).replace('-', '') \
         + '_' + file_type + '.xlsx'
 
     pd_futures_info.to_excel(nazwa_pliku)
