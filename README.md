@@ -10,4 +10,4 @@ The aim of the script is to provide a list of startegies that give positive retu
 * GBPPLN
 * EURUSD
 
-Reason: PL and US have higher interest rates than other countries.
+Reason of selecting the pairs: PL and US have higher interest rates than other countries.
